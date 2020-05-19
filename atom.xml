@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luoluoluoxy.github.io</id>
     <title>homework</title>
-    <updated>2020-05-19T06:34:52.034Z</updated>
+    <updated>2020-05-19T06:35:43.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luoluoluoxy.github.io"/>
     <link rel="self" href="https://luoluoluoxy.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://luoluoluoxy.github.io/images/avatar.png</logo>
     <icon>https://luoluoluoxy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, homework</rights>
+    <entry>
+        <title type="html"><![CDATA[About]]></title>
+        <id>https://luoluoluoxy.github.io/post/about/</id>
+        <link href="https://luoluoluoxy.github.io/post/about/">
+        </link>
+        <updated>2020-05-19T06:20:30.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>Hello，nice to meet you！🤝</p>
+</blockquote>
+<h2 id="about">🏠 About</h2>
+<blockquote>
+<p>Это последнее назначение компьютера.<br>
+Я построил простой сайт.</p>
+</blockquote>
+<h2 id="author">👨‍💻 Author</h2>
+<blockquote>
+<p>By luoxiaoying<br>
+2020/5/19</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://luoluoluoxy.github.io/post/hello-gridea/</id>
